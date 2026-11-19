@@ -49,6 +49,7 @@
 +---------------------------------------+
 ```
 
+## c. Tangkapan Layar Keluaran
 ![Tangkapan Layar Keluaran Program](screenshots/output_tugas_parkir.png)
 
 ## d. Penjelasan Enkapsulasi, Polimorfisme, dan Async
